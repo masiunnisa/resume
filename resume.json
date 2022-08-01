@@ -1,0 +1,235 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+        "name": "Masi Unnisa",
+        "label": "Data Analyst",
+        "image": "",
+        "email": "masiunnisa@protonmail.com",
+        "phone": "+91 6302027523",
+        "summary": "A 21 year old confident BBA Grad, passionate about business and data analytics.",
+        "location": {
+            "address": "India",
+            "postalCode": "500053",
+            "city": "Hyderabad",
+            "countryCode": "IN",
+            "region": "Telangana"
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "masiunnisa",
+                "url": "https://github.com/masiunnisa"
+            },
+            {
+                "network": "Twitter",
+                "username": "masi890",
+                "url": "https://twitter.com/Masi_890"
+            },
+            {
+                "network": "hackerrank",
+                "username": "masiunnisa",
+                "url": "https://www.hackerrank.com/masiunnisa"
+            },
+            {
+                "network": "link",
+                "username": "masiunnisa",
+                "url": "https://masiunnisa.netlify.app"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "DevOps Bootcamp",
+            "position": "Intermediate",
+            "startDate": "2021-10-15",
+            "endDate": "2022-10-15",
+            "summary": "#100DaysOfPython",
+            "highlights": [
+                "Worked with variables, data types to learn loops and functions",
+                "Python for Data science and Machine learning",
+                "Built multiple games and projects using Turtle and Pandas",
+                "Web Foundation/fundamentals and created websites",
+                "Worked with API endpoints and parameters to interact with external systems.",
+                "Built servers, blogs and web application using Flask framework"
+            ]
+        },
+        {
+            "name": "Structured Query Language",
+            "position": "Advanced",
+            "startDate": "2022-07-02",
+            "endDate": "2022-07-31",
+            "summary": "Complete SQL Mastery - Mosh Hamedani",
+            "highlights": [
+                "Installation, Network connection, Creating User account, granting privileges",
+                "Written SQL queries to retrieve data from database tables using different functions like SELECT, JOIN and more",
+                "Learnt different clauses,operators and functions to work with numeric and text database",
+                "Create, alter and update Views, Stored Procedures from the existing data",
+                "Studies different concurrency and isolation levels and storage engines to create triggers and transactions",
+                "Created Indexes to improve the performance of database",
+                "Worked with different data types to design data models and databases based on constraints and normalization"
+            ]
+        },
+        {
+            "name": "Microsoft Power BI",
+            "position": "intermediate",
+            "startDate": "2022-07-20",
+            "endDate": "2022-08-20",
+            "summary": "Power BI Masterclass - Dan We",
+            "highlights": [
+                "Worked with data transformation and data cleaning",
+                "Developed reports by retrieving data and visualizing it in different forms",
+                "Created, cleaned, formatted DAX measures",
+                "Used data models to convert raw data into insights",
+                "Created different reports using Excel sheets and SQL queries"
+            ]
+        },
+        {
+            "name": "DevOps Bootcamp",
+            "position": "intermediate",
+            "startDate": "2022-07-20",
+            "endDate": "2022-09-20",
+            "summary": "Full stack Data Anlayst - Dr Briit",
+            "highlights": [
+                "Learnt about Data analytics, data types, data ecosystem, and features",
+                "Managing, Analysing, Sorting, Filtering data, creating and removing duplicate data in MS Excel",
+                "worked with various fundamental concepts in MY SQL",
+                "Reviewed statistical operations in Python and analysed data from UBER to derive insights"
+            ]
+        },
+        {
+            "name": "Microsoft Excel",
+            "position": "Advanced",
+            "startDate": "2021-10-01",
+            "endDate": "2022-01-01",
+            "summary": "Mastering Microsoft Excel - Kyle Pew",
+            "highlights": [
+                "Studied data and conditional formatting",
+                "Created Excel sheets using pivot tables and charts.",
+                "Learnt how to use math and other formulae in Excel",
+                "Worked with macros in Excel and VBA"
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Behalf of You",
+            "position": "Volunteer",
+            "startDate": "2021-03-13",
+            "endDate": "2021-05-13",
+            "summary": "Behalf of You, is a Non-profit organization that takes care of the development of the Orphans and specially abled kids",
+            "highlights": [
+                "Spent time with the kids in orphanage while helping them build physical skills",
+                "Worked alongside the staff to run a daily morning routine with the children providing stability and affection.",
+                "Creating and implementing fun, exercise activities for all the children"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Osmania University",
+            "area": "Bachelor's of Business Administration(BBA)",
+            "studyType": "Bachelor",
+            "startDate": "2019-06-01",
+            "endDate": "2022-08-01",
+            "gpa": "9.2/10",
+            "courses": [
+                "Presented an individual Project report on 'The study of Decentralized Finance (DeFi)'",
+                "Awarded first place prize for representing 'The study of Cryptocurrency growth and Assessment of Volatility with reference to Bitcoin and Ethereum currencies' in inter state competition.",
+                "Presented a Seminar on the fundamental problems of an economic system in an inter- college fest.",
+                "Delivered an Advertisement regarding product and product development."
+            ]
+        },
+        {
+            "institution": "Telangana State Board of Intermediate Education",
+            "area": "Maths, Economics, Commerce",
+            "studyType": "Intermediate (MEC)",
+            "startDate": "2017-06-01",
+            "endDate": "2019-04-01",
+            "gpa": "8.11/10",
+            "courses": [
+                "Worked with team in research and study on 'Micro and Macro economics'",
+                "Explained promotional tools of marketing in a seminar",
+                "Conducted a servey on Consumer experience, pattern and analysis"
+            ]
+        }
+    ],
+   
+    "skills": [
+        {
+            "name": "Technical skills",
+            "keywords": [
+                "Microsoft Access",
+                "Microsoft Excel",
+                "Accounting",
+                "Financing",
+                "Book keeping",
+                "Budgeting",
+                "Data management",
+                "Digital marketing",
+                "Mobile marketing",
+                "Statistics",
+                "Data cleaning",
+                "Data Visualization",
+                "Python",
+                "Linux",
+                "HTML",
+                "CSS",
+                "Tableau",
+                "Power BI",
+                "SQL",
+                "Flask",
+                "Bootstrap",
+                "Microsoft",
+                "Composing Emails",
+                "Windows 10 proficiency"
+            ]
+        },
+        {
+            "name": "Soft skills",
+            "keywords": [
+                "Excellent Communicator",
+                "Team Player",
+                "Adaptability",
+                "Problem solver",
+                "Multi-tasker",
+                "Interpersonal skills",
+                "Leadership",
+                "Initiative",
+                "Ownership",
+                "Qucik learner",
+                "Creative",
+                "Time management",
+                "Expert Googling skills",
+                "Openness to criticism"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "Hindi/Urdu",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "Korean",
+            "fluency": "Intermediate"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Volunteer"
+        },
+        {
+            "name": "Reading books"
+        },
+        {
+            "name": "Gardening"
+        },
+        {
+            "name": "Personal Knowledge management"
+        }
+    ]
+}
