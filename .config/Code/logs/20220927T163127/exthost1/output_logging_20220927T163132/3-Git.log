@@ -651,3 +651,21 @@ warning: There are too many unreachable loose objects; run 'git prune' to remove
 [2022-09-27T12:15:48.709Z] > git config --get commit.template [3ms]
 [2022-09-27T12:15:49.662Z] > git ls-files --stage -- /home/masi/Dendron/.next/.gitignore [3ms]
 [2022-09-27T12:15:49.689Z] > git show --textconv :Dendron/.next/.gitignore [5ms]
+[2022-09-27T12:16:08.179Z] > git add -A -- . [273ms]
+[2022-09-27T12:16:08.255Z] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [64ms]
+[2022-09-27T12:16:08.255Z] Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+warning: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+[2022-09-27T12:16:08.517Z] > git status -z -uall [252ms]
+[2022-09-27T12:16:08.529Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-27T12:16:08.542Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+[2022-09-27T12:16:08.562Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [11ms]
+[2022-09-27T12:16:08.565Z] > git remote --verbose [4ms]
+[2022-09-27T12:16:08.580Z] > git config --get commit.template [2ms]
+[2022-09-27T12:16:08.604Z] > git config --get commit.template [6ms]
+[2022-09-27T12:16:09.530Z] > git ls-files --stage -- /home/masi/Dendron/.next/.gitignore [3ms]
+[2022-09-27T12:16:09.563Z] > git show --textconv :Dendron/.next/.gitignore [18ms]
