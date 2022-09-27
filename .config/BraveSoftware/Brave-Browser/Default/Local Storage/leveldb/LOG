@@ -1,0 +1,5 @@
+2022/09/27-16:00:18.007 5 Creating DB /home/masi/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb since it was missing.
+2022/09/27-16:00:18.016 5 Reusing MANIFEST /home/masi/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2022/09/27-16:30:47.174 f Level-0 table #5: started
+2022/09/27-16:30:47.177 f Level-0 table #5: 23079 bytes OK
+2022/09/27-16:30:47.180 f Delete type=0 #3

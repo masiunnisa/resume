@@ -1,0 +1,17 @@
+[Trace 10:17:15.922] Server: connection.languages.diagnostics.on: file:///home/masi/Dendron/notes/archive.Variability.md
+[Trace 10:17:15.938] Server: connection.languages.diagnostics.on: file:///home/masi/Dendron/notes/archive.Variability.md
+[Debug 10:17:15.957] TableOfContentsProvider: create - file:///home/masi/Dendron/notes/archive.Variability.md
+[Debug 10:17:15.966] LinkProvider: compute - file:///home/masi/Dendron/notes/archive.Variability.md
+[Debug 10:17:16.512] MdFoldingProvider: provideFoldingRanges - file:///home/masi/Dendron/notes/archive.Variability.md
+[Trace 10:17:16.516] Server: connection.languages.diagnostics.on: file:///home/masi/Dendron/notes/areas.PowerBI.md
+[Trace 10:17:16.561] Server: connection.languages.diagnostics.on: file:///home/masi/Dendron/notes/areas.PowerBI.md
+[Debug 10:17:16.561] TableOfContentsProvider: create - file:///home/masi/Dendron/notes/areas.PowerBI.md
+[Debug 10:17:16.629] LinkProvider: compute - file:///home/masi/Dendron/notes/areas.PowerBI.md
+[Trace 10:17:16.633] Server: connection.languages.diagnostics.on: file:///home/masi/Dendron/notes/areas.PowerBI.md
+[Debug 10:17:16.704] MdFoldingProvider: provideFoldingRanges - file:///home/masi/Dendron/notes/areas.PowerBI.md
+[Trace 10:28:20.731] Server: connection.languages.diagnostics.on: file:///home/masi/Dendron/notes/areas.PowerBI.md
+[Trace 10:28:31.672] Server: connection.languages.diagnostics.on: file:///home/masi/Dendron/notes/areas.PowerBI.md
+[Debug 10:28:31.782] MdFoldingProvider: provideFoldingRanges - file:///home/masi/Dendron/notes/areas.PowerBI.md
+[Trace 10:28:39.218] Server: connection.languages.diagnostics.on: file:///home/masi/Dendron/notes/areas.PowerBI.md
+[Trace 10:29:32.225] Server: connection.languages.diagnostics.on: file:///home/masi/Dendron/notes/areas.PowerBI.md
+[Debug 10:29:32.312] MdFoldingProvider: provideFoldingRanges - file:///home/masi/Dendron/notes/areas.PowerBI.md

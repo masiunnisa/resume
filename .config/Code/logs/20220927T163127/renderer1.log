@@ -1,0 +1,11 @@
+[2022-09-27 17:35:42.114] [renderer1] [error] [File Watcher (universal)] restarting watcher after error: terminated by itself with code undefined, signal: SIGSEGV
+[2022-09-27 17:35:43.067] [renderer1] [error] [File Watcher (parcel)] Unexpected error: No such file or directory (EUNKNOWN) (path: /home/masi)
+[2022-09-27 17:35:43.084] [renderer1] [error] [File Watcher (universal)] restarting watcher after error: No such file or directory
+[2022-09-27 17:35:43.494] [renderer1] [error] [File Watcher (parcel)] Unexpected error: No such file or directory (EUNKNOWN) (path: /home/masi)
+[2022-09-27 17:35:43.503] [renderer1] [error] [File Watcher (universal)] restarting watcher after error: No such file or directory
+[2022-09-27 17:35:43.784] [renderer1] [error] [File Watcher (parcel)] Unexpected error: No such file or directory (EUNKNOWN) (path: /home/masi)
+[2022-09-27 17:35:43.793] [renderer1] [error] [File Watcher (universal)] restarting watcher after error: No such file or directory
+[2022-09-27 17:35:44.078] [renderer1] [error] [File Watcher (parcel)] Unexpected error: No such file or directory (EUNKNOWN) (path: /home/masi)
+[2022-09-27 17:35:44.088] [renderer1] [error] [File Watcher (universal)] restarting watcher after error: No such file or directory
+[2022-09-27 17:35:44.368] [renderer1] [error] [File Watcher (parcel)] Unexpected error: No such file or directory (EUNKNOWN) (path: /home/masi)
+[2022-09-27 17:35:44.376] [renderer1] [error] [File Watcher (universal)] gave up attempting to restart watcher after error: No such file or directory

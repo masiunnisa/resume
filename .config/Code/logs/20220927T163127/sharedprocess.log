@@ -1,0 +1,15 @@
+[2022-09-27 16:31:33.073] [sharedprocess] [info] Starting worker process with pid 7554 (type: fileWatcher, window: 1).
+[2022-09-27 17:35:42.053] [sharedprocess] [error] SharedProcess (worker, fileWatcher): Worker process with pid 7554 terminated by itself with code null, signal: SIGSEGV (type: fileWatcher, window: 1)
+[2022-09-27 17:35:42.130] [sharedprocess] [info] Starting worker process with pid 11435 (type: fileWatcher, window: 1).
+[2022-09-27 17:35:43.094] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-09-27 17:35:43.095] [sharedprocess] [info] Worker process with pid 11435 terminated normally (type: fileWatcher, window: 1).
+[2022-09-27 17:35:43.109] [sharedprocess] [info] Starting worker process with pid 11459 (type: fileWatcher, window: 1).
+[2022-09-27 17:35:43.512] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-09-27 17:35:43.524] [sharedprocess] [info] Worker process with pid 11459 terminated normally (type: fileWatcher, window: 1).
+[2022-09-27 17:35:43.530] [sharedprocess] [info] Starting worker process with pid 11473 (type: fileWatcher, window: 1).
+[2022-09-27 17:35:43.798] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-09-27 17:35:43.802] [sharedprocess] [info] Worker process with pid 11473 terminated normally (type: fileWatcher, window: 1).
+[2022-09-27 17:35:43.816] [sharedprocess] [info] Starting worker process with pid 11487 (type: fileWatcher, window: 1).
+[2022-09-27 17:35:44.087] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-09-27 17:35:44.101] [sharedprocess] [info] Worker process with pid 11487 terminated normally (type: fileWatcher, window: 1).
+[2022-09-27 17:35:44.109] [sharedprocess] [info] Starting worker process with pid 11503 (type: fileWatcher, window: 1).
