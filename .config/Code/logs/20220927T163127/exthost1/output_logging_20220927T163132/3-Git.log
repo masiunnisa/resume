@@ -553,3 +553,83 @@
 [2022-09-27T11:32:08.766Z] > git remote --verbose [11ms]
 [2022-09-27T11:32:08.767Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [30ms]
 [2022-09-27T11:32:09.945Z] > git config --get commit.template [1045ms]
+[2022-09-27T12:06:31.578Z] > git ls-files --stage -- /home/masi/Dendron/.next/.gitignore [3ms]
+[2022-09-27T12:06:31.629Z] > git show --textconv :Dendron/.next/.gitignore [4ms]
+[2022-09-27T12:06:31.899Z] > git status -z -uall [348ms]
+[2022-09-27T12:06:31.927Z] > git symbolic-ref --short HEAD [11ms]
+[2022-09-27T12:06:31.950Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+[2022-09-27T12:06:31.994Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [27ms]
+[2022-09-27T12:06:32.001Z] > git remote --verbose [13ms]
+[2022-09-27T12:06:33.075Z] > git config --get commit.template [13ms]
+[2022-09-27T12:06:34.028Z] > git check-ignore -v -z --stdin [7ms]
+[2022-09-27T12:06:34.938Z] > git check-ignore -v -z --stdin [4ms]
+[2022-09-27T12:06:38.306Z] > git status -z -uall [218ms]
+[2022-09-27T12:06:38.346Z] > git symbolic-ref --short HEAD [15ms]
+[2022-09-27T12:06:38.383Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [24ms]
+[2022-09-27T12:06:38.433Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [35ms]
+[2022-09-27T12:06:38.434Z] > git remote --verbose [19ms]
+[2022-09-27T12:06:38.548Z] > git config --get commit.template [3ms]
+[2022-09-27T12:06:47.728Z] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [227ms]
+[2022-09-27T12:06:47.728Z] 
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+[2022-09-27T12:06:47.745Z] > git config --get-all user.name [4ms]
+[2022-09-27T12:06:54.885Z] > git status -z -uall [213ms]
+[2022-09-27T12:06:54.908Z] > git symbolic-ref --short HEAD [5ms]
+[2022-09-27T12:06:54.925Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+[2022-09-27T12:06:54.954Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [17ms]
+[2022-09-27T12:06:54.961Z] > git remote --verbose [8ms]
+[2022-09-27T12:06:56.433Z] > git ls-files --stage -- /home/masi/Dendron/.next/.gitignore [13ms]
+[2022-09-27T12:06:56.434Z] > git config --get commit.template [96ms]
+[2022-09-27T12:06:56.914Z] > git show --textconv :Dendron/.next/.gitignore [8ms]
+[2022-09-27T12:07:12.896Z] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [21ms]
+[2022-09-27T12:07:12.896Z] 
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+[2022-09-27T12:07:12.912Z] > git config --get-all user.name [4ms]
+[2022-09-27T12:13:04.894Z] > git status -z -uall [302ms]
+[2022-09-27T12:13:04.909Z] > git symbolic-ref --short HEAD [2ms]
+[2022-09-27T12:13:04.923Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+[2022-09-27T12:13:04.949Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [14ms]
+[2022-09-27T12:13:04.957Z] > git remote --verbose [10ms]
+[2022-09-27T12:13:06.573Z] > git config --get commit.template [16ms]
+[2022-09-27T12:13:30.999Z] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [165ms]
+[2022-09-27T12:13:30.999Z] Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+warning: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+[2022-09-27T12:13:31.306Z] > git status -z -uall [293ms]
+[2022-09-27T12:13:31.320Z] > git symbolic-ref --short HEAD [2ms]
+[2022-09-27T12:13:31.339Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+[2022-09-27T12:13:31.419Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [30ms]
+[2022-09-27T12:13:31.422Z] > git remote --verbose [4ms]
+[2022-09-27T12:13:31.501Z] > git config --get commit.template [4ms]
+[2022-09-27T12:13:31.655Z] > git config --get commit.template [129ms]
+[2022-09-27T12:13:32.756Z] > git ls-files --stage -- /home/masi/Dendron/.next/.gitignore [6ms]
+[2022-09-27T12:13:32.793Z] > git show --textconv :Dendron/.next/.gitignore [5ms]
+[2022-09-27T12:13:33.272Z] > git check-ignore -v -z --stdin [10ms]
+[2022-09-27T12:13:41.123Z] > git check-ignore -v -z --stdin [7ms]
+[2022-09-27T12:13:48.042Z] > git check-ignore -v -z --stdin [8ms]
+[2022-09-27T12:13:50.693Z] > git check-ignore -v -z --stdin [14ms]
+[2022-09-27T12:13:52.200Z] > git check-ignore -v -z --stdin [18ms]
